@@ -1,0 +1,25 @@
+# ninja log v5
+3	68	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+80	7530	7890682609209119	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ac67dc9a4d01671d9d6713af4e39b24d/react/renderer/components/safeareacontext/States.cpp.o	e0c5c0da502c88bd
+43	8613	7890682620203418	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ebe1fbde269e4b2c093a9ff56cac6e4c/renderer/components/safeareacontext/EventEmitters.cpp.o	dc684a4fbf2a9d22
+66	9746	7890682631484448	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/5afa1624e416a27f0f607f8d930afcb0/source/codegen/jni/safeareacontext-generated.cpp.o	421e4243e5a0aa9b
+107	11181	7890682645893255	CMakeFiles/appmodules.dir/OnLoad.cpp.o	28ac6c5b181a6896
+2	11300	7890682647107501	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/813a384886e5e84b1c17d66e856d52bf/components/safeareacontext/RNCSafeAreaViewState.cpp.o	1322c183cf0ee0cf
+54	11712	7890682651264190	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ebe1fbde269e4b2c093a9ff56cac6e4c/renderer/components/safeareacontext/ShadowNodes.cpp.o	a36a868a82b461e3
+31	12351	7890682657414958	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f67a0c6fa78de8bd2eb3e9883eb40cea/jni/react/renderer/components/safeareacontext/Props.cpp.o	53c06f2ced1aec6c
+21	13734	7890682671184258	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8fa87f9eaea44d4a71ce6b9df7a3c10f/components/safeareacontext/ComponentDescriptors.cpp.o	b2e792b0f5b86c3d
+11	13749	7890682671472135	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f0cae653b5ca4294d653daf16be4db85/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	b2510a821a23f519
+13751	14004	7890682674189330	D:/Hello-Aaye-Application/MobileApp/android/app/build/intermediates/cxx/Debug/4gd3b3q2/obj/armeabi-v7a/libreact_codegen_safeareacontext.so	d32fbba325377811
+93	15459	7890682688346378	CMakeFiles/appmodules.dir/D_/Hello-Aaye-Application/MobileApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d9eb872335a61774
+15460	15673	7890682690698555	D:/Hello-Aaye-Application/MobileApp/android/app/build/intermediates/cxx/Debug/4gd3b3q2/obj/armeabi-v7a/libappmodules.so	c3940c8ae68626f1
+4	77	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+4	37	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+4	37	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+3	38	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+3	37	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+3	30	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+2	53	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+3	32	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+2	29	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+3	32	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0
+6	46	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/armeabi-v7a/CMakeFiles/cmake.verify_globs	8e23bf689d2623d0

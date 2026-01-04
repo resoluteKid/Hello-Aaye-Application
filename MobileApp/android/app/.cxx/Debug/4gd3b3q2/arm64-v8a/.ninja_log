@@ -1,0 +1,25 @@
+# ninja log v5
+6	71	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+79	21881	7890682274592341	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f67a0c6fa78de8bd2eb3e9883eb40cea/jni/react/renderer/components/safeareacontext/States.cpp.o	bb25c417351c1995
+42	22692	7890682282701472	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ebe1fbde269e4b2c093a9ff56cac6e4c/renderer/components/safeareacontext/EventEmitters.cpp.o	fdd74ce594775582
+53	23426	7890682290014455	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/5afa1624e416a27f0f607f8d930afcb0/source/codegen/jni/safeareacontext-generated.cpp.o	14a84768c829995d
+91	24894	7890682304676422	CMakeFiles/appmodules.dir/OnLoad.cpp.o	79c759147c547709
+1	32717	7890682382655798	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/813a384886e5e84b1c17d66e856d52bf/components/safeareacontext/RNCSafeAreaViewState.cpp.o	f0e1043c88ae782f
+66	33232	7890682387799250	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ac67dc9a4d01671d9d6713af4e39b24d/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	a404373f202289e6
+29	34002	7890682395594773	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f67a0c6fa78de8bd2eb3e9883eb40cea/jni/react/renderer/components/safeareacontext/Props.cpp.o	426dc0e1a78e68f8
+19	35476	7890682410162783	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8fa87f9eaea44d4a71ce6b9df7a3c10f/components/safeareacontext/ComponentDescriptors.cpp.o	5cc44c1dbfe9132e
+105	36874	7890682424159645	CMakeFiles/appmodules.dir/D_/Hello-Aaye-Application/MobileApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d6973daeb86dec06
+10	36938	7890682425012727	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/813a384886e5e84b1c17d66e856d52bf/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	6ff10d830fe2cf0b
+36939	37230	7890682428020389	D:/Hello-Aaye-Application/MobileApp/android/app/build/intermediates/cxx/Debug/4gd3b3q2/obj/arm64-v8a/libreact_codegen_safeareacontext.so	3ba2ae9fbea7e01e
+37230	37430	7890682430094427	D:/Hello-Aaye-Application/MobileApp/android/app/build/intermediates/cxx/Debug/4gd3b3q2/obj/arm64-v8a/libappmodules.so	3f76f68793f37053
+36	97	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+3	36	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+3	39	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+3	36	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+3	46	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+6	58	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+8	42	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+3	35	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+2	35	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+3	35	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d
+8	86	0	D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/arm64-v8a/CMakeFiles/cmake.verify_globs	1824d9e210bcd70d

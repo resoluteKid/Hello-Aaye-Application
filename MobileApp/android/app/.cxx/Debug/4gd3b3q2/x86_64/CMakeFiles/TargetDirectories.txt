@@ -1,0 +1,6 @@
+D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/x86_64/CMakeFiles/appmodules.dir
+D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/x86_64/CMakeFiles/edit_cache.dir
+D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/x86_64/CMakeFiles/rebuild_cache.dir
+D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/x86_64/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/x86_64/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+D:/Hello-Aaye-Application/MobileApp/android/app/.cxx/Debug/4gd3b3q2/x86_64/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
